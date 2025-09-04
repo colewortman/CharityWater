@@ -3,7 +3,7 @@ body {
     font-family: 'Montserrat', Arial, sans-serif;
     background-color: #fff7e1;
     color: #1a1a1a;
-    overflow: hidden;
+    overflow-y: auto;
     height: 100vh;
 }
 
@@ -119,6 +119,13 @@ header h1 {
 @keyframes fadeInP {
     from { opacity: 0; transform: translateY(30px);}
     to { opacity: 1; transform: translateY(0);}
+}
+
+@media (min-width: 1025px) {
+  body {
+    overflow: hidden;
+    height: 100vh;
+  }
 }
 
 @media (max-width: 1024px) {
