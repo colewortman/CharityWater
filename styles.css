@@ -139,6 +139,14 @@ header h1 {
 }
 
 @media (max-width: 600px) {
+    body {
+        overflow-y: auto; /* enable vertical scrolling */
+    }
+
+    .container {
+        grid-template-columns: 1fr;
+        height: auto; /* let it expand */
+    }
     .text-section {
         padding: 2rem 1rem;
         text-align: center;
