@@ -7,4 +7,4 @@ I used tools such as Canva, and AI (ChatGPT and Copilot) to create this project 
 
 ## See the landing page here - https://colewortman.github.io/CharityWater/
 
-##Check out Charity: Water here - https://www.charitywater.org/, or use the landing page to visit them!
+## Check out Charity: Water here - https://www.charitywater.org/, or use the landing page to visit them!
